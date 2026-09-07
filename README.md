@@ -1,10 +1,11 @@
 Hi i am learning python
 
-hi i am rafi
+hi i am kowshik
 
-Hi i am a computer-enginerr
+Hi i am a data scientist
 
 I like Apple
+hi i know something
 
-orange
+hi i am a noob
 
